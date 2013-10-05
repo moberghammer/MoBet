@@ -1,0 +1,13 @@
+{
+  "name": "MoBet",
+  "version": "0.0.0",
+  "description": "A small test of single page app",
+  "main": "server.js",
+  "repository": "",
+  "author": "Moberg <cmh@mobe.dk>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
